@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name:HAREVASU S  </h3>
-<h3>Register Number/Staff Id: 212223230069    </h3>
+<h3>Register Number: 212223230069    </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -207,7 +207,9 @@ g.play_alpha_beta()
 <hr>
 <hr>
 <h2>Input and Output:</h2>
-![image](https://github.com/user-attachments/assets/1ca8868a-a33a-4303-a1bb-e9581f1a6119)
+
+![image](https://github.com/user-attachments/assets/683dbf0b-cad5-429b-aab6-241233051fe8)
+
 ![image](https://github.com/user-attachments/assets/fd8590fc-7735-4abc-8105-70f60fe1bcfa)
 
 
